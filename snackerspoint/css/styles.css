@@ -1,0 +1,25 @@
+.foodpicky{
+    color:coral!important;
+    padding-left: 50 ;
+    font-family: fantasy;
+    font-size: 1.5rem;
+    
+}
+
+.navbar-text{
+    font-size: 1.2rem;
+       
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 2.5rem;
+}
+
+.navbar .navbar-nav .nav-link {
+    color:black;
+    
+}
+.navbar .navbar-nav .nav-link:hover {
+  background-color:coral;
+  color: #fff;
+  font-size: 1.25em;
+}
